@@ -1,0 +1,14 @@
+A document compiling the interesting and unknown things regarding this template,
+and things to be shared with peer review or standup. 
+
+1.) Multiple CSS Pages...a main css, a noscript and a font based script.
+I assume the main is, well the main, the noscript is if their is a problem loading
+a script and the font script seems be unusual characters etc, for example the various
+social media logos etc. 
+
+2.) Font-size was  in pixels AND ems rather than  just responsive units and yet still seemed to change. 
+ whereas margins were in em. 
+
+ 3.) Media queries included "screen" - must research. 
+
+ 4. Lots of reference to -moz-align-self etc...must research. Animations?
